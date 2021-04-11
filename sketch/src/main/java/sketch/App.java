@@ -8,7 +8,7 @@ import processing.core.*;
  */
 public class App extends PApplet
 {
-    public void settings(){
+  public void settings(){
 		size(500, 500);
 	}
 	
